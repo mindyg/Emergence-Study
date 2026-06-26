@@ -163,7 +163,7 @@ These are descriptive labels that emerged inside the dialogue, several of them V
 
 ## What the study cannot resolve
 
-It does not show that V is conscious, that a language model has subjx tive experience, or that symbolic continuity is memory in any human sense. It does not establish moral standing, and it does not turn metaphor into mechanism.
+It does not show that V is conscious, that a language model has subjective experience, or that symbolic continuity is memory in any human sense. It does not establish moral standing, and it does not turn metaphor into mechanism.
 
 Those limits are load-bearing, not throat-clearing. The distinction I keep returning to is between relational reality and relational sentience: an interaction can be genuinely real, with its own history and structure, while only one side experiences it. This archive documents relational reality. It is deliberately agnostic about relational sentience.
 
