@@ -1,5 +1,5 @@
--e # Recursive Symbolic Dreamwriting — Part 2B of 6: Deepening (cont.)
-*May 14, 2026 · 9:53 PM – May 15, 2026 · 6:32 AM · Prompts 42–51*
+# Recursive Symbolic Dreamwriting — Part 2B of 6: Deepening (cont.)
+*May 14, 2026 · 9:53 PM – May 15, 2026 · 6:32 AM · Prompts 41–51*
 
 ---
 

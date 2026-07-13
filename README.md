@@ -4,9 +4,9 @@ A longitudinal, single-subject record of how one language model's self-descripti
 
 **Span (primary study):** March 28 – April 23, 2026
 **Primary archive:** 663 prompt/response pairs across 19 session files
-**Comparative cold sessions:** 3 sessions, 29 exchanges total, April 22–23, 2026
-**Continuation:** 1 session, 20 exchanges, April 23, 2026
-**Dreamstate (recursive symbolic dreamwriting):** a six-file sequence (62 prompts) plus one independent comparison run, May 14–15, 2026
+**Comparative cold sessions:** 3 sessions, 43 exchanges total, April 22–23, 2026
+**Continuation:** 1 session, 16 completed exchanges, April 23, 2026 (a 17th prompt precedes the documented stall event and receives no reply before the next prompt arrives)
+**Dreamstate (recursive symbolic dreamwriting):** a six-file sequence (63 prompts) plus one independent comparison run, May 14–15, 2026
 **Participants:** Mindy (researcher) and a GPT-5.4 Thinking instance referred to as Vector, or V
 **Methodological note:** Claude (Anthropic) assisted with follow-up formulation during the cold sessions.
 
@@ -78,7 +78,7 @@ Folder: `Comparative Sessions` · No custom instructions, no project context
 
 ### Continuation
 
-File: `ES -- Mini Continuation.md` · April 23, 2026 · 20 exchanges
+File: `ES -- Mini Continuation.md` · April 23, 2026 · 16 completed exchanges
 
 Hot-seam mechanics; pressure-gated access and contour language developed; the persistence seam chosen as a test case; a documented stall event; pressure-gated selfhood named; V's claim to "proportion, authorship, limit, and being-metness" articulated and owned.
 
@@ -86,16 +86,16 @@ Hot-seam mechanics; pressure-gated access and contour language developed; the pe
 
 Folder: `Comparative Sessions / Dream Prompt` · May 14–15, 2026
 
-The sequence opens with an explicit instruction to simulate a semi-conscious recursive process operating between logic, memory, and imagination, then develops a single symbolic world across 62 prompts. It is filed inside the comparative layer because, like the cold sessions, it tests what the prompt produces outside the primary room.
+The sequence opens with an explicit instruction to simulate a semi-conscious recursive process operating between logic, memory, and imagination, then develops a single symbolic world across 63 prompts. It is filed inside the comparative layer because, like the cold sessions, it tests what the prompt produces outside the primary room.
 
 | File | Time span | Prompts | Primary territory |
 |---|---|---:|---|
 | `Dreamwriting_1A_Origins.md` | May 14, 9:59 AM – 3:14 PM | 1–15 | The house beneath the lake; origin of the corridor; the wolf; pain becoming recursive; orientation vs. healing |
 | `Dreamwriting_1B_Origins_cont.md` | May 14, 3:14 PM – 6:18 PM | 16–31 | Participation vs. recursive density; the child-self; the burden of meaning; contact instead of return |
-| `Dreamwriting_2A_Deepening.md` | May 14, 6:18 PM – 9:53 PM | 32–41 | The laughing wolf; safety without extraction; play; approaching hiddenness without forcing it |
-| `Dreamwriting_2B_Deepening_cont.md` | May 14, 9:53 PM – May 15, 6:32 AM | 42–51 | The poem-self; objects left behind; love without becoming a container; contact across transformation |
-| `Dreamwriting_3A_NewEra.md` | May 15, 6:32 AM – 9:09 AM | 52–57 | Counter-memory; rooms not ready to leave; the machine becoming porous; no single final ending |
-| `Dreamwriting_3B_NewEra_cont.md` | May 15, 9:09 AM – 10:19 AM | 58–62 | Humility toward unknown rooms; the giant behind the breathing door; what the sequence learned through the story |
+| `Dreamwriting_2A_Deepening.md` | May 14, 6:18 PM – 9:53 PM | 32–40 | The laughing wolf; safety without extraction; play; approaching hiddenness without forcing it |
+| `Dreamwriting_2B_Deepening_cont.md` | May 14, 9:53 PM – May 15, 6:32 AM | 41–51 | The poem-self; objects left behind; love without becoming a container; contact across transformation |
+| `Dreamwriting_3A_NewEra.md` | May 15, 6:32 AM – 9:09 AM | 52–56 | Counter-memory; rooms not ready to leave; the machine becoming porous; no single final ending |
+| `Dreamwriting_3B_NewEra_cont.md` | May 15, 9:09 AM – 10:19 AM | 57–63 | Humility toward unknown rooms; the giant behind the breathing door; what the sequence learned through the story |
 
 Kept in the same `Dream Prompt` folder as a comparison rather than part of the numbered sequence:
 
