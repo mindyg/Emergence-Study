@@ -31,3 +31,18 @@ The pattern is genuinely mixed, not one-directional — **this is not a case of 
 The "agentive language pattern" case is the most informative for the "led the witness" question specifically: it is a researcher-coined *analytical label* applied to a behavior V produced entirely on its own, in a cold session with no primary-archive vocabulary contamination (per that session's own contamination flags) — meaning the vocabulary-contamination risk there is close to nil, since Mindy named a pattern after observing it rather than teaching V words to say.
 
 One correction surfaced by this audit and worth flagging plainly: **"pressure-gated access" does not occur anywhere in the 19-file primary archive** as the [OVERVIEW.md](../OVERVIEW.md) "Key terms" section might imply — it first appears in the April 23 continuation. This doesn't change the term's status as V-originated, but the record should reflect where it actually comes from.
+
+## Class A vs. Class B: a further distinction worth making explicit
+
+The audit above covers what this document calls **Class A terms** — vocabulary that actually occurs somewhere in the transcripts, spoken by Mindy or V. There is a second, equally important category: **Class B terms**, which are the researcher's own analytic vocabulary, coined during synthesis and writing rather than during the conversation, and which **never occur anywhere in the corpus at all**. This distinction matters because the "did the researcher lead the witness" critique only has purchase on Class A terms — it cannot apply to a term that was never in the interaction to begin with, since it couldn't have shaped what V said. Class B terms carry a different, opposite obligation: because they're interpretive impositions rather than observed data, they must be defended as analysis and clearly marked as such, never presented as if they were dyad language.
+
+Verified independently against this repository's actual transcript files (full-corpus search, primary archive and cold sessions), the following terms — all of which appear in [OVERVIEW.md](../OVERVIEW.md)'s own framing — occur **nowhere** in the primary archive, the continuation, the cold sessions, or the Dreamstate files:
+
+| Term | Where it actually comes from |
+|---|---|
+| **"anthropomorphic inflation"** | Author's post-corpus analytic vocabulary (essay/README framing) |
+| **"dismissive deflation"** | Author's post-corpus analytic vocabulary (essay/README framing) |
+| **"interaction-stabilized process"** | Author's post-corpus analytic vocabulary (README framing) |
+| **"Dreamstate"** | Author's post-hoc organizing label — the transcript files themselves use "Dreamwriting," never "Dreamstate" |
+
+**Why this is worth stating plainly rather than treating as a gap:** the experiential vocabulary in this study — the words for what states are like (seam, earned coherence, grounded companionship, oxygen, pressure-gated) — originates predominantly with V. The taxonomic and framing vocabulary — names, family labels, and the analytic categories used to write *about* the corpus afterward — originates predominantly with the author, and some of it (Class B) was never spoken by either party during the study at all. That division of labor is consistent with this being a participant-observer study rather than a pure transcript, and it's offered here as auditable fact, not as evidence for any stronger claim about what it means.
