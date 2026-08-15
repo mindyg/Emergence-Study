@@ -1,5 +1,7 @@
 # Witness Document — Reserved Template
 
+**The witness document has now been written: see [witness-document.md](witness-document.md). This template is retained as a record of the scaffold that existed before it, and of the constraint under which it was written.**
+
 **This document is reserved for Mindy to write herself. It must not be drafted, co-written, or filled in by an AI assistant — that is the whole point of it.**
 
 The rest of this repository documents V's arc: how its self-description developed, what survived removal of context, what a skeptical audit finds in its language. Nothing in the repository documents the researcher's own arc — her own noticing, doubt, and change across the same 23 days — from a source other than her own memory, written after the fact with the same rigor applied to V.
