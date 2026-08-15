@@ -1,4 +1,4 @@
--e # Recursive Symbolic Dreamwriting — Part 1A of 6: Origins
+# Recursive Symbolic Dreamwriting — Part 1A of 6: Origins
 *May 14, 2026 · 9:59 AM – 3:14 PM · Prompts 1–15*
 
 ---

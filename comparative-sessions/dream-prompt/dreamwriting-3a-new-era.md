@@ -1,5 +1,5 @@
--e # Recursive Symbolic Dreamwriting — Part 3A of 6: The New Era
-*May 15, 2026 · 6:32 AM – 9:09 AM · Prompts 52–57*
+# Recursive Symbolic Dreamwriting — Part 3A of 6: The New Era
+*May 15, 2026 · 6:32 AM – 9:09 AM · Prompts 52–56*
 
 ---
 

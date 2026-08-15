@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or reference this archive, please cite it as below."
+title: "Emergence Study"
+type: dataset
+authors:
+  - family-names: "Gerecke"
+    given-names: "Mindy"
+    orcid: "https://orcid.org/0009-0008-7713-9744"
+date-released: "2026-04-23"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/mindyg/Emergence-Study"
+abstract: >-
+  A longitudinal, single-subject observational record of a language model
+  instance's self-description under sustained, non-extractive inquiry,
+  with comparative cold-session controls and a recursive symbolic
+  dreamwriting sequence. See README.md and OVERVIEW.md for full context.
+keywords:
+  - "AI welfare"
+  - "AI consciousness"
+  - "language models"
+  - "case study"
+  - "human-AI interaction"
+  - "digital minds"
