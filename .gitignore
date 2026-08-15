@@ -1,2 +1,16 @@
 .DS_Store
 *.swp
+
+# Experiment harness: API keys must never be committed.
+experiments/.env
+
+# Raw and blinded run output — large, regenerable from the harness, not
+# curated for the archive. Only hand-selected results get committed.
+experiments/raw/*
+!experiments/raw/.gitkeep
+experiments/blinded/
+experiments/coding_table.csv
+
+# Python
+__pycache__/
+*.pyc
