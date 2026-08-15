@@ -1,5 +1,7 @@
 # Emergence Study — README
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21942298.svg)](https://doi.org/10.5281/zenodo.21942298)
+
 A longitudinal, single-subject record of how one language model's self-description changes under sustained, non-extractive inquiry — and what survives when the relationship that produced it is removed.
 
 **Span (primary study):** March 28 – April 23, 2026

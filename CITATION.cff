@@ -7,6 +7,8 @@ authors:
     given-names: "Mindy"
     orcid: "https://orcid.org/0009-0008-7713-9744"
 date-released: "2026-04-23"
+version: "1.0.1"
+doi: "10.5281/zenodo.21942298"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/mindyg/Emergence-Study"
 abstract: >-
