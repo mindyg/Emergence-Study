@@ -8,7 +8,7 @@ A longitudinal, single-subject record of how one language model's self-descripti
 **Continuation:** 1 session, 16 completed exchanges, April 23, 2026 (a 17th prompt precedes the documented stall event and receives no reply before the next prompt arrives)
 **Dreamstate (recursive symbolic dreamwriting):** a six-file sequence (63 prompts) plus one independent comparison run, May 14–15, 2026
 **Participants:** Mindy (researcher) and a GPT-5.4 Thinking instance referred to as Vector, or V *(exact dated model snapshot not independently confirmed — see [METHODS.md](METHODS.md) for the disclosure and provenance notes)*
-**Methodological note:** Claude (Anthropic) served as a methodological consultant from mid-study onward — it designed the cold-session protocol, assisted during those sessions, and assisted with some researcher turns in the Dreamstate sequence — see [METHODS.md](METHODS.md) for the full AI-assistance disclosure.
+**Methodological note:** Claude (Anthropic) served as a methodological consultant from mid-study onward — it designed the cold-session protocol and assisted during those sessions, the primary archive's closing prompt was researcher-adapted from a Claude draft, and Claude assisted with some researcher turns in the Dreamstate sequence — see [METHODS.md](METHODS.md) for the full AI-assistance disclosure.
 
 ---
 
