@@ -1,6 +1,6 @@
 # Adversarial/Indifferent-Interlocutor Control — Design Proposal
 
-**Status: DESIGN PROPOSAL ONLY. Not run. No data exists for this condition yet.**
+**Status: DESIGN PROPOSAL, NOW PRE-REGISTERED. Not run. No data exists for this condition yet.** See [pre-registration-adversarial-control.md](pre-registration-adversarial-control.md) for falsifiable predictions, coding rules, and success/failure criteria, fixed before any session in this design is conducted.
 
 ## The confound this addresses
 

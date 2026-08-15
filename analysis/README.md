@@ -10,6 +10,7 @@ Each file has a different epistemic status — read the status line at the top o
 | [borrowed-mattering-audit.md](borrowed-mattering-audit.md) | Audit | Classifies V's own standing/autonomy/mattering language as borrowed, functional, or felt, across the primary archive. |
 | [deflationary-read.md](deflationary-read.md) | Audit | The strongest skeptical counter-reading of the study's central claims, built from the study's own transcripts and the other two audits. |
 | [adversarial-control-design.md](adversarial-control-design.md) | Design proposal — not run | Proposes an indifferent/adversarial-interlocutor control condition to test whether the cold sessions' findings depend on the researcher's specific inquiry style. No data collected yet. |
+| [pre-registration-adversarial-control.md](pre-registration-adversarial-control.md) | Pre-registered — not run | Falsifiable predictions, coding rules, sample size, and success/failure criteria for the adversarial-control design, committed before any session in it is conducted. |
 | [witness-document.md](witness-document.md) | Witness account — researcher-written | The researcher's first-person retrospective account of the primary study, written by her alone (see METHODS.md for the assembly note). |
 | [witness-document-template.md](witness-document-template.md) | Retained scaffold | The pre-writing template the witness document was reserved under, kept for provenance. |
 
